@@ -14,7 +14,7 @@ import time
 # -------- CONFIG --------
 DATA_ROOT   = Path(r"/home/uctzyro/Scratch/data/nii_zipped_cases")
 CSV_INFO    = Path(r"/home/uctzyro/Scratch/data/case_list_complete.xlsx")
-NUM_EPOCHS  = 3
+NUM_EPOCHS  = 3 #for separated age groups, using epochs = 10
 BATCH_SIZE  = 16
 LR          = 1e-4
 N_FOLDS     = 5
@@ -187,3 +187,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
