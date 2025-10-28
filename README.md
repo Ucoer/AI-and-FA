@@ -1,6 +1,8 @@
 # AI-and-FA
 
-The initial code for CNN and saliency map is included. Since the research was conducted on both the entire dataset and selected groups, the code can be tailored for corresponding age ranges or chosen dataset.
+This is the research for AI and forensic anthropology, where CNN was applied for forensic age estimation on NIFTI files.
+
+The initial code for CNN and saliency map is included.
 
 * Dataset in Excel format
 https://docs.google.com/spreadsheets/d/1fXdHe2jjvbG9hIn1K7fEVBFlMbdsiOVI/edit?usp=sharing&ouid=113821952675986347672&rtpof=true&sd=true
