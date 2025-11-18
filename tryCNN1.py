@@ -1,4 +1,3 @@
-import os
 import pandas as pd
 import numpy as np
 import nibabel as nib
@@ -187,4 +186,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
 
